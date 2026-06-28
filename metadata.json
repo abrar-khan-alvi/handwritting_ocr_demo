@@ -1,0 +1,6 @@
+{
+  "name": "Handwriting OCR Demo",
+  "description": "An elegant, minimalist handwriting recognition demo utilizing the Google Gemini API to extract text from handwritten notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
